@@ -13,13 +13,13 @@ Front-End Task
 
 1. Clone the project.
 
-2. cd dev and run `npm install`.
+2. write in Terminal `cd dev` and run `npm install`.
 
-3. cd client and run `npm install`.
+3. write in Terminal `cd client` and run `npm install`.
 
-4. Get the API key
+4. Get the API key from Google Console Developer
 
-- You must have at least one API key associated with your project.
+- You should have at least one API key associated with your project.
 
 ### To get an API key:
 
