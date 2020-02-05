@@ -1,7 +1,7 @@
 # Front-End Task
 
 Front-End Task
-![here](http://g.recordit.co/hHGxUMWsgL.gif)
+![here](http://g.recordit.co/2A8FMvQO4l.gif)
 
 ## dependancies
 
