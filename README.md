@@ -23,17 +23,17 @@ Front-End Task
 
 ### To get an API key:
 
-Go to the Google Cloud Platform Console.
+1. Go to the Google Cloud Platform Console.
 
-Click the project drop-down and select or create the project for which you want to add an API key.
+2. Click the project drop-down and select or create the project for which you want to add an API key.
 
-Click the menu button and select APIs & Services > Credentials.
+3. Click the menu button and select APIs & Services > Credentials.
 On the Credentials page, click Create credentials > API key.
 The API key created dialog displays your newly created API key.
 
-Click **Close**.
+4. Click Close.
 
-The new API key is listed on the Credentials page under API keys.
+`The new API key is listed on the Credentials page under API keys.`
 
 `(Remember to restrict the API key before using it in production.)`
 
